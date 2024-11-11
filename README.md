@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hasinthaka Piyumal Senanayaka
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73817304?v=4&size=64" alt="Profile Avatar" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/73817304?v=4" alt="Profile Avatar" style="border-radius: 50%;" />
 </p>
 
 ## 🚀 About Me
