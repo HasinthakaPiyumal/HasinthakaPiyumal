@@ -1,4 +1,7 @@
 <h1 align="center">🚀 Hasinthaka Piyumal</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hasinthaka%20Piyumal-%F0%9F%91%8BHello!-gradient?style=for-the-badge&logoColor=white&labelColor=black&color=gradient" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Software+Engineering+Student;Problem+Solver" alt="Typing SVG" />
