@@ -27,7 +27,7 @@
 
 I'm an aspiring **Machine Learning Engineer** and **Software Engineering undergraduate** passionate about building impactful applications using AI/ML and modern web/mobile technologies.
 
-- 🎓 B.Sc. (Hons.) Software Engineering, University of Kelaniya (CGPA: 3.25/4.0)  
+- 🎓 B.Sc. (Hons.) Software Engineering, University of Kelaniya
 - 💡 Specialized in Data Science, Net-Centric Applications, Mobile and Game Development  
 - 👨‍💻 Experience with ML-integrated apps using Python, React, FastAPI  
 - 📫 Email: **hasinthakapiyumal@gmail.com**
