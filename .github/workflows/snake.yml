@@ -2,12 +2,13 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
+    - cron: "0 0 * * *" # Every midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -17,10 +18,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate contribution snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
