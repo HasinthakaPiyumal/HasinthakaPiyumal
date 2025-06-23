@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hasinthaka Piyumal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Software+Engineering+Student;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Website-Visit-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HasinthakaPiyumal&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -37,6 +38,13 @@ I'm an aspiring **Machine Learning Engineer** and **Software Engineering undergr
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,java,kotlin,dart,sql,tensorflow,react,flutter,flask,fastapi,nodejs,nextjs,spring,docker,azure,mongodb,firebase,git" />
+</p>
+
+---
+### 🐍 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HasinthakaPiyumal/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -90,14 +98,6 @@ I'm an aspiring **Machine Learning Engineer** and **Software Engineering undergr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HasinthakaPiyumal&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasinthakaPiyumal&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HasinthakaPiyumal/HasinthakaPiyumal/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
